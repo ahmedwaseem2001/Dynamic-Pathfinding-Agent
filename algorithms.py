@@ -182,3 +182,4 @@ def a_star(grid, start, goal, heuristic):
             
 >>>>>>> 45ecbcd2f9039abf6606246d86980f912bf29977
     return None, set(closed_list.keys()), set([item[1].position for item in open_list]), nodes_expanded, 0 
+ 
