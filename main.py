@@ -318,3 +318,4 @@ if __name__ == "__main__":
     app = PathfindingApp(root)
 >>>>>>> 45ecbcd2f9039abf6606246d86980f912bf29977
     root.mainloop() 
+ 
