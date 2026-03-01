@@ -24,6 +24,7 @@ Go to the project folder and run:
 
 python main.py
 
+
 **Controls**
 
 Generate Map → Create a new grid with obstacles
@@ -33,6 +34,7 @@ Run Agent → Start pathfinding
 Dynamic Mode → Enable real-time obstacle changes
 
 Mouse Click → Add or remove walls
+
 
 **Notes**
 
